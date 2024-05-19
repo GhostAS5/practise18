@@ -1,0 +1,3 @@
+/home/artem/Desktop/PC/University/С++/Practise17/cmake-build-debug/CMakeFiles/Practise17.dir
+/home/artem/Desktop/PC/University/С++/Practise17/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/artem/Desktop/PC/University/С++/Practise17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
